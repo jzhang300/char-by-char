@@ -1,1 +1,1 @@
-import React from 'reac
+import React from 'react
