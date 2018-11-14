@@ -1,2 +1,2 @@
 import React from 'react';
-import Propt
+import Propty
