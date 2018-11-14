@@ -1,2 +1,2 @@
 import React from 'react';
-import Prop
+import Propt
