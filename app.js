@@ -1,2 +1,2 @@
 import React from 'react';
-import Proptypes from 'pro
+import Proptypes from 'prop
